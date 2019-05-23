@@ -13,7 +13,7 @@
       "name": "Mr. Monkey",
       "image": "https://thumbs.gfycat.com/FatalInnocentAmericanshorthair-max-1mb.gif",
       "calories": {
-        "total_calories": 0
+        "total_calories": 343
       }
     },
     {
@@ -21,7 +21,7 @@
       "name": "Miss. Zebra",
       "image": "http://www.lequzhai.com/data/out/9/486896.gif",
       "calories": {
-        "total_calories": 0
+        "total_calories": 400
       }
     },
     {
@@ -37,7 +37,7 @@
       "name": "Mr. Panda",
       "image": "https://media.giphy.com/media/ALalVMOVR8Qw/giphy.gif",
       "calories": {
-        "total_calories": 0
+        "total_calories": 200
       }
     },
     {
@@ -45,7 +45,7 @@
       "name": "Mrs. Monkey",
       "image": "https://cdn.dribbble.com/users/1832502/screenshots/4387756/monkeyanim.gif",
       "calories": {
-        "total_calories": 0
+        "total_calories": 1000
       }
     }
   ]
